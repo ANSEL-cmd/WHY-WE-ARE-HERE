@@ -14,5 +14,8 @@ I am here because I want to understand the material well enough to make my own d
 
 
 
+
+## References
+
 Ihde, D. (1990). Technology and the Lifeworld: From Garden to Earth. Indiana University Press. http://www.jstor.org/stable/jj.33903449
 
